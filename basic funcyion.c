@@ -2,8 +2,8 @@
 void greet()
 {
 
-printf("How are you");
-printf("I am fine");
+printf("How are you\n");
+printf("I am very scared for collage\n");
 
 return ;
 }

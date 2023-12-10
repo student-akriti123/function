@@ -1,13 +1,9 @@
 #include<stdio.h>
-
-
 int add(int a,int b)
 {
    return (a+b) ;
 }
-
 int main()
-
 {
     int a;
     printf("Enter the value of:");
@@ -18,8 +14,9 @@ int main()
     scanf("%d",&b);
 
 
- int sum =add(a,b);
- printf("%d ",sum);
+    int sum =add(a,b);
+    printf("%d ",sum);
 
 return 0;
+
 }
